@@ -20,6 +20,8 @@ public class Card : MonoBehaviour
     /*
     поля спрайт, значение, (ид)
     метод нажатия 
+
+    (подумать как можно правильно зарефакторить код, что бы можно было добавлять данные - например звук)
     */
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
